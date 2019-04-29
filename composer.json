@@ -1,0 +1,11 @@
+{
+    "name": "spip/plan",
+    "type": "spip-plugin",
+    "description": "Plan du site dans l’espace privé",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Matthieu Marcillaud",
+        "email": "marcimat@rezo.net"
+    }],
+    "require": {}
+}
